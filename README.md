@@ -8,7 +8,6 @@ Run locally via installing [docker](https://www.docker.com/) and jupyter-repo2do
 The code should run by executing
 `jupyter-repo2docker --editable .` 
 
-First run align*.ipynb to generate the cailbrated spectra and then execute the other notebooks.
 
 `run_me.sh`
 
